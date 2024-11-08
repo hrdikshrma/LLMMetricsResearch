@@ -11,6 +11,7 @@ Welcome to **LLMMetricsResearch**.
 - **Perplexity**
 - [Perplexity of Language Models](https://medium.com/@priyankads/perplexity-of-language-models-41160427ed72)
 - [Perplexity calculation in NLP](https://medium.com/@AyushmanPranav/perplexity-calculation-in-nlp-0699fbda4594)
+- [Exploring Perplexity: A Concise Guide with Python Code](https://python.plainenglish.io/exploring-perplexity-a-concise-guide-with-python-code-cfc201ba6c1a)
 - [Detecting AI-Generated Code Assignments Using Perplexity of Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/30361)
 - **Research Papers**
 - [Can AI-Generated Text be Reliably Detected?](https://arxiv.org/abs/2303.11156)
