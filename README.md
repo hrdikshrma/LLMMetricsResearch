@@ -24,10 +24,16 @@ Welcome to **LLMMetricsResearch**.
 - **Burstiness**
 - [Exploring Burstiness: Evaluating Language Dynamics in LLM-Generated Texts](https://ramblersm.medium.com/exploring-burstiness-evaluating-language-dynamics-in-llm-generated-texts-8439204c75c1)
 - **Stylometric Analysis**
+- [Stylometric Detection of AI-Generated Text in Twitter Timelines](https://arxiv.org/abs/2303.03697)
+- [A Survey on Stylometric Text Features](https://ieeexplore.ieee.org/abstract/document/8981504)
   - **Vocabulary Richness**
+  - [Type Token Ratio in NLP](https://medium.com/@rajeswaridepala/empirical-laws-ttr-cc9f826d304d)
+  - [Can Type-Token Ratio be Used to Show Morphological Complexity of Languages?](https://www.tandfonline.com/doi/full/10.1080/09296174.2014.911506#abstract)
+  - [Type-token models: a comparative study](https://www.tandfonline.com/doi/full/10.1080/09296174.2014.974456#abstract)
+  - [Playing with Words: Comparing the Vocabulary and Lexical Richness of ChatGPT and Humans](https://arxiv.org/pdf/2308.07462)
   - **Average Sentence Length**
   - **Function Word Frequencies**
-- **Articles, Research Papers and some important links on this topic**
+- **Articles, Research Papers, and some important links on this topic**
 - [Can AI-Generated Text be Reliably Detected?](https://arxiv.org/abs/2303.11156)
 - [On the Possibilities of AI-Generated Text Detection](https://arxiv.org/abs/2304.04736)
 - [Towards Possibilities & Impossibilities of AI-generated Text Detection: A Survey](https://arxiv.org/abs/2310.15264)
