@@ -23,6 +23,10 @@ Welcome to **LLMMetricsResearch**.
 - [Entropy (for data science) Clearly Explained!!!](https://www.youtube.com/watch?v=YtebGVx-Fxw)
 - **Burstiness**
 - [Exploring Burstiness: Evaluating Language Dynamics in LLM-Generated Texts](https://ramblersm.medium.com/exploring-burstiness-evaluating-language-dynamics-in-llm-generated-texts-8439204c75c1)
+- **Stylometric Analysis**
+  - **Vocabulary Richness**
+  - **Average Sentence Length**
+  - **Function Word Frequencies**
 - **Articles, Research Papers and some important links on this topic**
 - [Can AI-Generated Text be Reliably Detected?](https://arxiv.org/abs/2303.11156)
 - [On the Possibilities of AI-Generated Text Detection](https://arxiv.org/abs/2304.04736)
