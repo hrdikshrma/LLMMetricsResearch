@@ -5,7 +5,8 @@ Welcome to **LLMMetricsResearch**.
 
 ## Metrics
 - Perplexity 
-- Entropy & Burstiness
+- Entropy
+- Burstiness
 
 ## Material Links (Webpage as well as Research Paper)
 - **Perplexity**
