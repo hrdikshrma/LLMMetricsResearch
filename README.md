@@ -22,6 +22,7 @@ Welcome to **LLMMetricsResearch**.
 - [Detecting AI-Generated Text: Factors Influencing Detectability with Current Methods](https://arxiv.org/html/2406.15583v1) : States *AI-Generated Text tends to have low perplexity and low entropy, compared to human texts, as measured by the generating model’s probability distribution.*
 - [Entropy (for data science) Clearly Explained!!!](https://www.youtube.com/watch?v=YtebGVx-Fxw)
 - **Burstiness**
+- [Words’ Burstiness in Language Models](https://nlp.fi.muni.cz/raslan/2011/paper17.pdf)
 - [Exploring Burstiness: Evaluating Language Dynamics in LLM-Generated Texts](https://ramblersm.medium.com/exploring-burstiness-evaluating-language-dynamics-in-llm-generated-texts-8439204c75c1)
 - **Stylometric Analysis**
 - [Stylometric Detection of AI-Generated Text in Twitter Timelines](https://arxiv.org/abs/2303.03697)
