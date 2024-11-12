@@ -26,13 +26,20 @@ Welcome to **LLMMetricsResearch**.
 - **Stylometric Analysis**
 - [Stylometric Detection of AI-Generated Text in Twitter Timelines](https://arxiv.org/abs/2303.03697)
 - [A Survey on Stylometric Text Features](https://ieeexplore.ieee.org/abstract/document/8981504)
+- [Distinguishing ChatGPT(-3.5, -4)-generated and human-written papers through Japanese stylometric analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC10411719/)
   - **Vocabulary Richness**
   - [Type Token Ratio in NLP](https://medium.com/@rajeswaridepala/empirical-laws-ttr-cc9f826d304d)
+  - [Cutting the Gordian Knot: The Moving-Average Type–Token Ratio (MATTR)](https://www.tandfonline.com/doi/full/10.1080/09296171003643098)
   - [Can Type-Token Ratio be Used to Show Morphological Complexity of Languages?](https://www.tandfonline.com/doi/full/10.1080/09296174.2014.911506#abstract)
   - [Type-token models: a comparative study](https://www.tandfonline.com/doi/full/10.1080/09296174.2014.974456#abstract)
   - [Playing with Words: Comparing the Vocabulary and Lexical Richness of ChatGPT and Humans](https://arxiv.org/pdf/2308.07462)
   - **Average Sentence Length**
+  - [A large-scale comparison of human-written versus ChatGPT-generated essays](https://www.nature.com/articles/s41598-023-45644-9)
   - **Function Word Frequencies**
+  - [How to spot AI-generated text](https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/)
+- **N-gram Analysis**
+- 
+- [Detecting AI Authorship: Analyzing Descriptive Features for AI Detection](https://ceur-ws.org/Vol-3551/paper3.pdf)
 - **Articles, Research Papers, and some important links on this topic**
 - [Can AI-Generated Text be Reliably Detected?](https://arxiv.org/abs/2303.11156)
 - [On the Possibilities of AI-Generated Text Detection](https://arxiv.org/abs/2304.04736)
@@ -41,6 +48,10 @@ Welcome to **LLMMetricsResearch**.
 - [AI-Generated vs. Human-Written Text: Technical Analysis](https://hackernoon.com/ai-generated-vs-human-written-text-technical-analysis)
 - [Evaluating AI and Human Authorship Quality in Academic Writing through Physics Essays](https://arxiv.org/html/2403.05458v1)
 - [How Does AI Content Measure Against Human-Generated Content?](https://ai-techpark.com/ai-vs-human-content-quality/)
+- [Detecting AI-Generated Text: 12 Things to Watch For](https://www.eastcentral.edu/free/ai-faculty-resources/detecting-ai-generated-text/)
+- [Building an AI Text Detector - Lessons Learned](https://rotational.io/blog/building-an-ai-text-detector/)
+- [Detecting Machine-Generated Texts: Not Just "AI vs Humans" and Explainability is Complicated](https://arxiv.org/abs/2406.18259)
+- [Detection of Machine-Generated Text: Literature Survey](https://arxiv.org/abs/2402.01642)
 
 
 ## Contacts
