@@ -44,6 +44,15 @@ Welcome to **LLMMetricsResearch**.
 - [AI vs. Human - Differentiation Analysis of  Scientific Content Generation ](https://arxiv.org/abs/2301.10416)
 - [Detecting AI-Generated Text: Factors Influencing Detectability with Current Methods](https://arxiv.org/html/2406.15583v1#S3)
 - [AI vs. Human:AComparative Study of Cohesion and Coherence inAcademic Texts between Human-Written and ChatGPT-Generated Texts](https://rua.ua.es/dspace/bitstream/10045/147311/1/AI_vs_Human_A_Comparative_Study_of_Cohesion_and_Coherence_in_A_ZHENG__WENXIN.pdf)
+- **Repetition and Redundancy Detection**
+- [Uncovering Repetition: How Syntactic Templates Reveal Patterns in AI-Generated Text](https://complexdiscovery.com/uncovering-repetition-how-syntactic-templates-reveal-patterns-in-ai-generated-text/)
+- [Anatomy of an AI Essay](https://www.insidehighered.com/opinion/career-advice/teaching/2024/07/02/ways-distinguish-ai-composed-essays-human-composed-ones)
+- [ChatGPT vs. Human Generated Text: How to Spot the Difference](https://musicalbrick.com/chatgpt-vs-human-generated-text-how-to-spot-the-difference/)
+- [Linguistic analysis of human and artificial intelligence content in academic discourse](https://ktipe.pnu.edu.ua/index.php/jpnuphil/article/view/8500)
+- **Syntactic Analysis**
+- [Understanding Part-of-Speech Tagging in NLP: Techniques and Applications](https://www.shiksha.com/online-courses/articles/pos-tagging-in-nlp/)
+- [Artificial Intelligence-Based Text Classification: Separating Human Writing from Computer Generated Writing ](https://ceur-ws.org/Vol-3496/autextification-paper5.pdf)
+- [RFBES at SemEval-2024 Task 8: Investigating Syntactic and Semantic Features for Distinguishing AI-Generated and Human-Written Texts](https://arxiv.org/html/2402.14838v1#S2)
 - **Articles, Research Papers, and some important links on this topic**
 - [Can AI-Generated Text be Reliably Detected?](https://arxiv.org/abs/2303.11156)
 - [On the Possibilities of AI-Generated Text Detection](https://arxiv.org/abs/2304.04736)
@@ -56,6 +65,10 @@ Welcome to **LLMMetricsResearch**.
 - [Building an AI Text Detector - Lessons Learned](https://rotational.io/blog/building-an-ai-text-detector/)
 - [Detecting Machine-Generated Texts: Not Just "AI vs Humans" and Explainability is Complicated](https://arxiv.org/abs/2406.18259)
 - [Detection of Machine-Generated Text: Literature Survey](https://arxiv.org/abs/2402.01642)
+- [EVALUATION METRICS FOR LANGUAGE MODELS](https://kilthub.cmu.edu/articles/Evaluation_Metrics_For_Language_Models/6605324/files/12095765.pdf)
+- [GPTZero Performance in Identifying Artificial Intelligence-Generated Medical Texts: A Preliminary Study](https://synapse.koreamed.org/articles/1516083870)
+- [Study Looks to Distinguish Between Human and AI-Generated Content](https://sjgiorgi.github.io/publications/giorgi2023islept.pdf)
+- [Test It: AI -vs- Human Generated Material](https://www.dau.edu/blogs/test-it-ai-vs-human-generated-material)
 
 
 ## Contacts
