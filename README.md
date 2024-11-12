@@ -7,6 +7,14 @@ Welcome to **LLMMetricsResearch**.
 - Perplexity 
 - Entropy
 - Burstiness
+- Stylometric Analysis
+  - Vocabulary Richness
+  - Average Sentence Length
+  - Function Words Frequency
+- N-gram Analysis
+- Semantic Coherence and Consistency Check
+- Repetition and Redundancy Detection
+- Syntactic Analysis
 
 ## Material Links (Webpage as well as Research Paper)
 - **Perplexity**
