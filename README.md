@@ -33,6 +33,7 @@ Welcome to **LLMMetricsResearch**.
 - [Words’ Burstiness in Language Models](https://nlp.fi.muni.cz/raslan/2011/paper17.pdf)
 - [Exploring Burstiness: Evaluating Language Dynamics in LLM-Generated Texts](https://ramblersm.medium.com/exploring-burstiness-evaluating-language-dynamics-in-llm-generated-texts-8439204c75c1)
 - **Stylometric Analysis**
+- [StyloAI: Distinguishing AI-Generated Content with Stylometric Analysis](https://arxiv.org/html/2405.10129v1#S3)
 - [Stylometric Detection of AI-Generated Text in Twitter Timelines](https://arxiv.org/abs/2303.03697)
 - [A Survey on Stylometric Text Features](https://ieeexplore.ieee.org/abstract/document/8981504)
 - [Distinguishing ChatGPT(-3.5, -4)-generated and human-written papers through Japanese stylometric analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC10411719/)
@@ -61,6 +62,21 @@ Welcome to **LLMMetricsResearch**.
 - [Understanding Part-of-Speech Tagging in NLP: Techniques and Applications](https://www.shiksha.com/online-courses/articles/pos-tagging-in-nlp/)
 - [Artificial Intelligence-Based Text Classification: Separating Human Writing from Computer Generated Writing ](https://ceur-ws.org/Vol-3496/autextification-paper5.pdf)
 - [RFBES at SemEval-2024 Task 8: Investigating Syntactic and Semantic Features for Distinguishing AI-Generated and Human-Written Texts](https://arxiv.org/html/2402.14838v1#S2)
+- **Psycholinguistic Features**
+- [What Is Flesch-Kincaid Readability?](https://www.webfx.com/tools/read-able/flesch-kincaid/#:~:text=Flesch%2DKincaid%20reading%20ease%20formula,the%20material%20on%20the%20page.)
+- [Measuring the "readability" of texts with Large Language Models](https://seantrott.substack.com/p/measuring-the-readability-of-texts)
+- [How to build: Sentiment Analysis : Sentiment Analysis with Python and Hex](https://hex.tech/templates/sentiment-analysis/sentiment-analysis/)
+- [AI and Academic Writing: Humans are Still Needed](https://www.bridgetext.com/ai-and-academic-writing-humans-are-still-needed)
+- [All About The Flesch Kincaid Grade Level](https://originality.ai/blog/all-about-the-flesch-kincaid-grade-level)
+- [StyloAI: Distinguishing AI-Generated Content with Stylometric Analysis](https://arxiv.org/html/2405.10129v1#S3)
+- [AI Sentiment Analysis: Definition, Examples & Tools](https://www.v7labs.com/blog/ai-sentiment-analysis-definition-examples-tools)
+- [Classification of Human- and AI-Generated Texts for English, French, German, and Spanish](https://arxiv.org/pdf/2312.04882.pdf)
+- **Error Pattern Analysis**
+- [How To Identify AI-Generated Text?](https://originality.ai/blog/identify-ai-generated-text)
+- [ChatGPT beware: How to spot AI generated Text 🤖 👀](https://www.linkedin.com/pulse/chatgpt-beware-how-spot-ai-generated-text-thomas-hirschmann/)
+- [Artificial intelligence fails in grammar](https://www.eurekalert.org/news-releases/1031054)
+- [Human-Written vs AI-Generated Texts in Orthopedic Academic Literature: Comparative Qualitative Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC10907945/)
+- [AI vs. Human - Differentiation Analysis of  Scientific Content Generation](https://arxiv.org/abs/2301.10416)
 - **Articles, Research Papers, and some important links on this topic**
 - [Can AI-Generated Text be Reliably Detected?](https://arxiv.org/abs/2303.11156)
 - [On the Possibilities of AI-Generated Text Detection](https://arxiv.org/abs/2304.04736)
@@ -77,6 +93,7 @@ Welcome to **LLMMetricsResearch**.
 - [GPTZero Performance in Identifying Artificial Intelligence-Generated Medical Texts: A Preliminary Study](https://synapse.koreamed.org/articles/1516083870)
 - [Study Looks to Distinguish Between Human and AI-Generated Content](https://sjgiorgi.github.io/publications/giorgi2023islept.pdf)
 - [Test It: AI -vs- Human Generated Material](https://www.dau.edu/blogs/test-it-ai-vs-human-generated-material)
+- [The Detection of AI-Generated Academic Text](https://www.bridgetext.com/the-detection-of-ai-generated-academic-text)
 
 
 ## Contacts
