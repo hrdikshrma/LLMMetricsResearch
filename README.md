@@ -38,8 +38,11 @@ Welcome to **LLMMetricsResearch**.
   - **Function Word Frequencies**
   - [How to spot AI-generated text](https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/)
 - **N-gram Analysis**
-- 
 - [Detecting AI Authorship: Analyzing Descriptive Features for AI Detection](https://ceur-ws.org/Vol-3551/paper3.pdf)
+- **Semantic Coherence and Consistency**
+- [AI vs. Human - Differentiation Analysis of  Scientific Content Generation ](https://arxiv.org/abs/2301.10416)
+- [Detecting AI-Generated Text: Factors Influencing Detectability with Current Methods](https://arxiv.org/html/2406.15583v1#S3)
+- [AI vs. Human:AComparative Study of Cohesion and Coherence inAcademic Texts between Human-Written and ChatGPT-Generated Texts](https://rua.ua.es/dspace/bitstream/10045/147311/1/AI_vs_Human_A_Comparative_Study_of_Cohesion_and_Coherence_in_A_ZHENG__WENXIN.pdf)
 - **Articles, Research Papers, and some important links on this topic**
 - [Can AI-Generated Text be Reliably Detected?](https://arxiv.org/abs/2303.11156)
 - [On the Possibilities of AI-Generated Text Detection](https://arxiv.org/abs/2304.04736)
