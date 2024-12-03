@@ -6,16 +6,26 @@ Welcome to **LLMMetricsResearch**.
 ## Metrics
 - Perplexity 
 - Entropy
+  - Character-wise Entropy
+  - Word-wise Entropy
 - Burstiness
 - Stylometric Analysis
   - Vocabulary Richness
   - Average Sentence Length
   - Function Words Frequency
 - N-gram Analysis
+  - Bi-Gram Analysis
+  - Tri-Gram Analysis
 - Semantic Coherence and Consistency Check
 - Repetition and Redundancy Detection
+  - Repeating Words
+  - Repeating Ratio
+  - Repeating N-gram count
 - Syntactic Analysis
+  - POS Tagging
 - Psycholinguistic Features
+  - Flesch-Kincaid readability score
+  - 
 - Interrogative Content Analysis
 - Cognitive Load Indicators
 - Character Level Features
