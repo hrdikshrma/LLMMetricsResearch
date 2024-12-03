@@ -15,6 +15,11 @@ Welcome to **LLMMetricsResearch**.
 - Semantic Coherence and Consistency Check
 - Repetition and Redundancy Detection
 - Syntactic Analysis
+- Psycholinguistic Features
+- Interrogative Content Analysis
+- Cognitive Load Indicators
+- Character Level Features
+- Error Pattern Analysis
 
 ## Material Links (Webpage as well as Research Paper)
 - **Perplexity**
@@ -94,6 +99,8 @@ Welcome to **LLMMetricsResearch**.
 - [Study Looks to Distinguish Between Human and AI-Generated Content](https://sjgiorgi.github.io/publications/giorgi2023islept.pdf)
 - [Test It: AI -vs- Human Generated Material](https://www.dau.edu/blogs/test-it-ai-vs-human-generated-material)
 - [The Detection of AI-Generated Academic Text](https://www.bridgetext.com/the-detection-of-ai-generated-academic-text)
+- [Distinguishing academic science writing from humans or ChatGPT with over 99% accuracy using off-the-shelf machine learning tools](https://pmc.ncbi.nlm.nih.gov/articles/PMC10328544/)
+- [AI vs. Human -- Differentiation Analysis of Scientific Content Generation](https://arxiv.org/abs/2301.10416)
 
 
 ## Contacts
@@ -101,4 +108,4 @@ Welcome to **LLMMetricsResearch**.
 If you have any questions or suggestions, feel free to reach out to me:
 - Email: hardik.sharma@temple.edu
 - GitHub: hrdikshrma
-Thank you for visiting iCloud-Lite! Happy coding!
+Thank you for visiting LLMMetricsResearch! Keep researching!
