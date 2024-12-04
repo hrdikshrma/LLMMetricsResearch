@@ -25,11 +25,15 @@ Welcome to **LLMMetricsResearch**.
   - POS Tagging
 - Psycholinguistic Features
   - Flesch-Kincaid readability score
-  - 
+  - Sentiment Polarity and Subjectivity
 - Interrogative Content Analysis
 - Cognitive Load Indicators
 - Character Level Features
+  - Special Character count
+  - Punctuation count
 - Error Pattern Analysis
+  - Spelling Errors
+  - Grammatical Errors
 
 ## Material Links (Webpage as well as Research Paper)
 - **Perplexity**
@@ -111,6 +115,7 @@ Welcome to **LLMMetricsResearch**.
 - [The Detection of AI-Generated Academic Text](https://www.bridgetext.com/the-detection-of-ai-generated-academic-text)
 - [Distinguishing academic science writing from humans or ChatGPT with over 99% accuracy using off-the-shelf machine learning tools](https://pmc.ncbi.nlm.nih.gov/articles/PMC10328544/)
 - [AI vs. Human -- Differentiation Analysis of Scientific Content Generation](https://arxiv.org/abs/2301.10416)
+- ["Watermarking Language Models" paper and GPTZero EXPLAINED | How to detect text by ChatGPT?](https://www.youtube.com/watch?v=-vToUx5SDW4)
 
 
 ## Contacts
