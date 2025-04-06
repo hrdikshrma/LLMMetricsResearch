@@ -1,7 +1,9 @@
 
 # LLMMetricsResearch
 
-Welcome to **LLMMetricsResearch**.
+Welcome to **LLMMetricsResearch**. 
+
+*This project is still under development as I am trying to add more datasets for my model training. Please find the below-performed literature review until the code is made public*
 
 ## Metrics
 - Perplexity 
